@@ -8,7 +8,7 @@ export default function Navbar() {
           LEONARDO'S REMODELING
         </Link>
       </div>
-      <div className="hidden md:flex gap-8">
+      <div className="flex gap-8">
         <Link href="/contact" className="hover:text-[var(--accent)] transition-colors text-sm uppercase tracking-widest">
           Contact
         </Link>
