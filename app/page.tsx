@@ -7,7 +7,7 @@ export default function Home() {
 
       {/* Centered Logo Section */}
       <div className="w-full flex justify-center mb-12 mt-8">
-        <div className="relative w-[500px] h-[500px] rounded-full overflow-hidden border-4 border-[var(--accent)] shadow-2xl shadow-[var(--accent)]/20">
+        <div className="relative w-[400px] h-[400px] rounded-full overflow-hidden border-4 border-[var(--accent)] shadow-2xl shadow-[var(--accent)]/20">
           <Image
             src="/leo-logo.jpeg"
             alt="Leonardo's Remodeling Logo"
